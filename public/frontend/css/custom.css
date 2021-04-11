@@ -1,0 +1,39 @@
+/* your styles go here */
+
+.box-image-text.blog .intro {
+	height: 115px ; 
+	overflow:hidden; 
+	line-height:180%; 
+	font-size:16px; 
+	text-align:justify;  
+}
+
+.box-image-text .content h4 {height:48px ; overflow:hidden; font-size:17px;}
+
+.box-image-text .image img {height:160px; width:100%}
+
+.product  {height:400px}
+
+.product .image .img-responsive {margin:auto;margin-top:20px;height:180px}
+
+.product .text h3 {height:32px; overflow:hidden; margin:15px;}
+
+.product .buttons {display:block; padding:0; position:static}
+
+#footer .photostream div {width: 16.5%;}
+
+h1 .lead {color: #38a7bb; font-weight: 900; text-transform: uppercase; font-size: 26px}
+
+p .goToDescripition {margin-top: 30px; text-align: left;}
+
+#mainImage {margin-top: 50px}
+
+#maimImage img {height: 250px;}
+
+#productMain #thumbs img {height: 80px}
+
+#productMain #thumbs div {text-align: center}
+
+#productMain #thumbs a {border: none;}
+
+
